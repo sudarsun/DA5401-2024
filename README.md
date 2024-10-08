@@ -9,7 +9,7 @@ DA5401 Data Analytics Lab (2024) -- Assignments and Solutions
 ## Prerequisites
 * DA5400 or any other equivalent courses on Machine Learning and/or Pattern Recognition
 * Fluency in Python programming
-* Ability to use third-party libraries such as sklearn, numpy, pandas
+* Ability to use third-party libraries such as Sklearn, NumPy, Pandas
 
 ## The Process
 * We will meet every week. 
@@ -17,7 +17,7 @@ DA5401 Data Analytics Lab (2024) -- Assignments and Solutions
 * Students are expected to use the remaining time in the slot to do their assignments or clarify their queries.
 * There will be at least ten weekly assignments spread across the semester.
 * Each assignment will be given ~10 days for completion and submission.
-* The end-semester exam will be a Data Challenge competition + Viva.
+* The end-semester exam will be a [Data Challenge competition](https://www.kaggle.com/competitions/da5401-2024-ml-challenge) + Viva.
 * 80% weightage to the assignments and 20% to the Data Challenge.
 
 ## References
